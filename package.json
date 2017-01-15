@@ -1,0 +1,9 @@
+{
+  "name": "mountain-peaks",
+  "version": "1.0.0",
+  "description": "An SVG generator for creating mountain peaks.",
+  "main": "index.js",
+  "repository": "https://github.com/ghwilson4456/mountain-peaks.git",
+  "author": "Gary H. Wilson",
+  "license": "MIT License"
+}
